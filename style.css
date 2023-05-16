@@ -1,0 +1,110 @@
+*{
+    margin: 0px; 
+    font-family: 'Inter';
+}
+#TopMenu{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center;
+    background-color: #303030;
+}
+#TopMenuTitle{
+    color: #FFFFFF;
+    margin: 206px 0px 20px 62px;
+    font-size: 60px;
+    line-height: 72px;
+}
+#Caption{
+    color: #FFFFFF;
+    margin: 0px 0px 149px 62px;
+    font-size: 20px;
+    line-height: 28px;
+}
+#InformationalMenu{
+    display: grid;
+    grid-auto-flow: column;
+    columns:auto;
+    background-color:#F9F9F9;
+    padding: 96px 0px 66.82px 171px;
+}
+.Numbers{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.TextInformationalMenu{
+    font-size: 20px;
+    font-weight: 400;
+}
+.ColumnsInformationalMenu{
+    margin-left: 99px;
+}
+
+
+#BodySection{
+    display: grid;
+    grid-auto-flow: column;
+    columns:auto;
+}
+#BodyTitle{
+    font-size: 32px;
+    font-weight: 500px;
+}
+#BodyInformation{
+    font-weight: 500px;
+    font-size: 18px;
+    font-family: 'Raleway';
+}
+#Body{
+    margin: 250px 64px 0px 77px;
+}
+#ImageBodySection{
+    margin: 82px 0px 92px 0px;
+}
+
+
+#FormSection{
+    background-color: #303030;
+    text-align: center;
+    padding-top: 87px;
+}
+#FormTitle{
+    color: #FFFFFF;
+    margin-bottom: 40px
+}
+input{
+    width: 450px;
+    height: 55px;
+    margin-bottom: 60px;
+    padding: 12px 15px 12px 27px;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: 'Raleway';
+}
+input::placeholder{
+    color: #00000048;
+    font-size: 21.5px;
+    font-weight: bolder;
+    font-family: 'Raleway';
+}
+button{
+    background-color: #C07212;
+    color:#FFFFFF;
+    margin: 10px 0px 80px 0px;
+    width: 246px;
+    height: 68px;
+    border: 1px;
+    padding: auto;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: 'Raleway';
+    cursor: pointer;
+}
+button:hover{
+    background-color: #bd6802;
+    color: #303030;
+    transform: translateY(-3px);
+    box-shadow: 0px 15px 15px 0px #00446160;
+    transition-duration: 0.3s;
+}
+

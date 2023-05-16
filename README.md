@@ -5,4 +5,4 @@
 
 
 Link do site para visualização da landing page: https://projetoonednc.netlify.app/ <br>
-Link da planilha de registro das informações postadas: https://docs.google.com/spreadsheets/d/15fVqyQTycg4yA36kJmiLprba27Wnv9ftJa22GrfXYKA/edit#gid=0
+Link da planilha de registro das informações postadas: https://docs.google.com/spreadsheets/d/1oWQrpPTi1FP1uuTZQ-J36ZOfEcL4noObMnPrrV2szV8/edit#gid=0
